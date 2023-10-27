@@ -18,3 +18,9 @@ Shadows Unseen is a game about a detective in an urban-fantasy setting resemblin
 Rather than working a single case at a time, the player will be able to work on multiple cases simultaneously. This will allow the player to switch between cases if they get stuck on one, and will allow the player to make connections between cases.
 This will also allow the player to work on cases that are not directly related to the main plot, which will allow the player to explore the world and learn more about the setting.
 Certain events in cases need to be coordinated with the main timeline, so the player will not be able to work on cases indefinitely.
+
+The throughline of each case is some kind of Fae prince preparing to take over the city. The prince is able to grant inspiration to artists and writers, as well as enthrall and control people. The prince is also able to create illusions and manipulate shadows. They plan to enter the world through a portal created during a solar eclipse, and will use the portal to bring an army of Fae into the world.
+
+[The King in Yellow](https://en.wikipedia.org/wiki/The_King_in_Yellow)
+
+-- The lyrics of the song sung by the ghost lamp in Nightmare at the Opera are from Cassilda's Song, from scene 2 of the play
