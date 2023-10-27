@@ -1,0 +1,1 @@
+A writer is producing acclaimed novels overnight, but there's something unsettling about the content. Discover the source of the phantom typewriter's inspiration and the cost of such creativity.

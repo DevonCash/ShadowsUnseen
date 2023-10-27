@@ -1,0 +1,1 @@
+Mysterious shadows in an abandoned opera house come to life, singing haunting arias and drawing people into the dark. Uncover the connection between the opera's past and the sinister shadows.
