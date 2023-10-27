@@ -11,6 +11,9 @@ Shadows Unseen is a game about a detective in an urban-fantasy setting resemblin
 - Map: A map of the city that the player can use to travel to different locations.
 - Notebook: A notebook that the player can use to keep track of their thoughts and observations.
 
+## Technology
+- Dialogic: Godot plugin for dialogue scenes
+
 ## Cases
 Rather than working a single case at a time, the player will be able to work on multiple cases simultaneously. This will allow the player to switch between cases if they get stuck on one, and will allow the player to make connections between cases.
 This will also allow the player to work on cases that are not directly related to the main plot, which will allow the player to explore the world and learn more about the setting.
