@@ -1,0 +1,43 @@
+[gd_scene load_steps=5 format=3 uid="uid://ly1iofv4istb"]
+
+[ext_resource type="Script" path="res://scripts/Fact.gd" id="1_bcbrg"]
+[ext_resource type="Script" path="res://StringBoardManager.gd" id="1_iewxx"]
+[ext_resource type="PackedScene" uid="uid://biayrwttp8x58" path="res://prefabs/fact.tscn" id="2_do3k7"]
+[ext_resource type="Script" path="res://scripts/OverviewCamera.gd" id="3_2t0ec"]
+
+[node name="StringBoard" type="Control"]
+y_sort_enabled = true
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_iewxx")
+fact_prefab = "res://prefabs/fact.tscn"
+
+[node name="Fact" parent="." instance=ExtResource("2_do3k7")]
+layout_mode = 0
+
+[node name="Camera2D" type="Camera2D" parent="."]
+script = ExtResource("3_2t0ec")
+
+[node name="Fact2" type="PanelContainer" parent="."]
+layout_mode = 2
+offset_left = 369.0
+offset_top = 10.0
+offset_right = 469.0
+offset_bottom = 110.0
+script = ExtResource("1_bcbrg")
+
+[node name="TextureRect" type="TextureRect" parent="Fact2"]
+custom_minimum_size = Vector2(100, 100)
+layout_mode = 2
+
+[node name="Fact3" type="PanelContainer" parent="."]
+layout_mode = 2
+offset_left = 187.0
+offset_top = -110.0
+offset_right = 287.0
+offset_bottom = -10.0
+script = ExtResource("1_bcbrg")
+
+[node name="TextureRect" type="TextureRect" parent="Fact3"]
+custom_minimum_size = Vector2(100, 100)
+layout_mode = 2

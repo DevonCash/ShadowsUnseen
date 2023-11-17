@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://biayrwttp8x58"]
+
+[ext_resource type="Script" path="res://scripts/Fact.gd" id="1_phl2b"]
+
+[node name="Fact" type="PanelContainer"]
+script = ExtResource("1_phl2b")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+custom_minimum_size = Vector2(100, 100)
+layout_mode = 2
